@@ -5,8 +5,8 @@
   "author": "Michael Chernin",
   "license": "MIT",
   "scripts": {
-    "build": "parcel build src/js/main.js -d src/build/ -o main.js",
-    "watch": "parcel watch src/js/main.js -d src/build/ -o main.js"
+    "build": "parcel build src/js/main.js -d src/build/ -o main",
+    "watch": "parcel watch src/js/main.js -d src/build/ -o main"
   },
   "dependencies": {
     "babel-preset-env": "^1.6.1",
